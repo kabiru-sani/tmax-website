@@ -1,0 +1,32 @@
+TMAX PROJECT
+FRONTEND DEVELOPMENT
+Using html css and javascript
+Read about BOILER PLATE.
+
+Self closing tags contents are usually inside an attribute
+
+TEXT ELEMENTS/TAGS 
+these are elements that have tags e.g h1, to h6, p, etc.
+
+DAY 2
+TOPIC1: SEMANTIC TAGS
+article tags
+header tags
+footer
+aside -> is meant for creating a side bar in your website.
+main 
+figure -> you can put images and text in a figure TAG.
+figure-caption -> is a caption to figure
+section
+nav
+
+TOPIC2: TABLE TAG
+<tr> is a block element that houses inline elements
+
+DAY 3
+
+Audio tags
+Video tags
+i-fram
+
+
